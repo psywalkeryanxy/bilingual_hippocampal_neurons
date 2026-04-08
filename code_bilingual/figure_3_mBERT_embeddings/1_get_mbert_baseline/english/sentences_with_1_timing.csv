@@ -1,0 +1,297 @@
+sentence_id,first_word_idx,last_word_idx,onset_first_word,offset_last_word,duration_sentence,word_count,text,first_word,last_word
+1,1,22,86917.48,93583.62,6666.14,22,"When you're traveling in India, especially through holy sites and ashrams, you see a lot of people wearing beads around their necks.","When",necks.
+2,23,47,94438.66,103330.61,8891.95,25,"You also see a lot of old photographs of naked, skinny and intimidating yogis, or sometimes even plump kindly and radiant yogis wearing beads too.","You",too.
+3,48,54,104137.29,107238,3100.71000000001,7,"These strings of beads are called japamalas.","These",japamalas.
+4,55,74,108109.77,115766.09,7656.31999999999,20,"They have been used in India for centuries to assist devout Hindus and Buddhists in staying focused during prayerful meditation.","They",meditation.
+5,75,94,116810.52,123461.49,6650.97,20,"The necklace is held in one hand and fingered in a circle, one bead touched for every repetition of mantra.","The",mantra.
+6,95,123,124457.45,134442.13,9984.68000000001,29,"When the medieval crusaders drove east for the Holy Wars, they witnessed worshipers praying with these japamalas, admired the technique, and brought the idea home to Europe as rosary.","When",rosary.
+7,124,131,136023.93,139545.69,3521.76000000001,8,"The traditional japamala is strung with 108 beads.","The",beads.
+8,132,165,140241.97,153594.88,13352.91,34,"Amid the more esoteric circles of eastern philosophers, the number 108 is held to be most auspicious, a perfect three digit multiple of three, its components adding up to nine, which is three threes.","Amid",threes.
+9,166,192,154375.16,164116.26,9741.10000000001,27,"And three, of course, is the number representing supreme balance as anyone who has ever studied either the Holy Trinity or a simple barstool can plainly see.","And",see.
+10,193,221,165201.98,175476.67,10274.69,29,"Being as this whole book is about my efforts to find balance, i have decided to structure it like a japamala dividing my story into 108 tales or beads.","Being",beads.
+11,222,248,176556.48,186772.93,10216.45,27,"This string of 108 tales is further divided into three sections about Italy, India, and Indonesia, the three countries i visited during this year of self inquiry.","This",inquiry.
+12,249,277,187705.67,195883.42,8177.75,29,"This division means that there are 36 tales in each section, which appeals to me on a personal level because i am writing all this during my 36th year.","This",year.
+13,278,315,197236.31,209360.49,12124.18,38,"Now, before I get too Louis Farrakhan here with this numerology business, let me conclude by saying that I also like the idea of stringing these stories along the structure of a japamala because it is so structured.","Now,",structured.
+14,316,329,210251.38,215960.03,5708.64999999999,14,"Sincere spiritual investigation is and always has been, and an endeavor of methodical discipline.","Sincere",discipline.
+15,330,338,216564.82,218901.02,2336.19999999998,9,"Looking for truth is not some kind of spazzy.","Looking",spazzy.
+16,339,354,218901.02,223098.13,4197.11000000002,16,"Free for all, not even during this the Great Age of the spazzy free for all.","Free",all.
+17,355,390,223723.77,232609.13,8885.36000000002,36,"As both a seeker and a writer, I find it helpful to hang on to the beads as much as possible, The better to keep my attention focused on what it is, I'm trying to accomplish.","As",accomplish.
+18,391,414,233857.35,244376.26,10518.91,24,"In any case, every japamala has a special extra bead, the 109th bead, which dangles outside that balanced circle of 108 like a pendant.","In",pendant.
+19,415,441,245156.92,252586.39,7429.47,27,"I used to think the 109th bead was an emergency spare like the extra button on a fancy sweater or the youngest son in a royal family.","I",family.
+20,442,449,253163.79,255476.98,2313.19,8,"But apparently there is an even higher purpose.","But",purpose.
+21,450,471,256218.46,262658.63,6440.17000000001,22,"When your fingers reach this marker during prayer, you are meant to pause from your absorption and meditation and thank your teachers.","When",teachers.
+22,472,484,263326.61,268213.84,4887.23000000004,13,"So here, at my own 109th bead, i pause before I even begin.","So",begin.
+23,485,503,268903.92,274608.99,5705.07000000001,19,"I offer thanks to all my teachers, who have appeared before me this year in so many curious forms.","I",forms.
+24,504,531,275840.23,284446.76,8606.53000000003,28,"But most especially I thank my guru, who is compassion's very heartbeat, and who so generously permitted me to study at her ashram while I was in India.","But",India.
+25,532,566,285395.08,296791.97,11396.89,35,"This is also the moment where I would like to clarify that I write about my experiences in India purely from a personal standpoint and not as a theological scholar or as anybody's official spokesperson.","This",spokesperson.
+26,567,586,297561.91,302998.75,5436.84000000003,20,"This is why I will not be using my guru's name throughout this book because i cannot speak for her.","This",her.
+27,587,592,303513.89,305688.69,2174.79999999999,6,"Her teachings speak best for themselves.","Her",themselves.
+28,593,624,306452.9,316876.55,10423.65,32,"Nor will I reveal either the name or the location of her ashram, thereby sparing that fine institution publicity which it may have neither the interest in nor the resources for managing.","Nor",managing.
+29,625,662,318577.55,331713.86,13136.31,38,"One final expression of gratitude while scattered names throughout this book have been changed for various reasons, I've elected to change the names of every single person I met both Indian and western at this ashram in India.","One",India.
+30,663,696,332618.38,341642.12,9023.73999999999,34,"This is out of respect for the fact that most people don't go on a spiritual pilgrimage in order to appear later as a character in a book, unless, of course, they are me.","This",me.
+31,697,708,342696.09,346234.8,3538.70999999996,12,"I've made only one exception to this self imposed policy of anonymity.","I've",anonymity.
+32,709,721,346994.93,351196.71,4201.78000000003,13,"Richard from Texas really is named Richard, and he really is from Texas.","Richard",Texas.
+33,722,740,352009.06,355375.32,3366.26000000001,19,"I wanted to use his real name because he was so important to me when I was in India.","I",India.
+34,741,776,356490,365465.07,8975.07000000001,36,"One last thing when I asked Richard if it was okay with him, if i mentioned in my book that he used to be a junkie and a drunk, he said that would be totally fine.","One",fine.
+35,777,796,365972.25,373446.02,7473.77000000002,20,"He said I'd been trying to figure out how to get the word out about that anyhow, but first Italy.","He",Italy.
+36,797,802,397690.66,399397.57,1706.90999999992,6,"i wish Giovanni would kiss me.","i",me.
+37,803,816,401020.48,403708.6,2688.12,14,"Oh, but there are so many reasons why this would be a terrible idea.","Oh,",idea.
+38,817,841,404414.05,411851.17,7437.12,25,"To begin with, Giovanni is ten years younger than i am, and like most Italian guys in their twenties, he still lives with his mother.","To",mother.
+39,842,889,412690,429567.02,16877.02,48,"These facts alone make him an unlikely romantic partner for me, given that i am a professional American woman in my mid thirties, who has just come through a failed marriage and a devastating, interminable divorce, followed immediately by a passionate love affair that ended in sickening heartbreak.","These",heartbreak.
+40,890,906,430399.7,436764.39,6364.69,17,"This loss upon loss has left me feeling sad and brittle and about seven thousand years old.","This",old.
+41,907,925,437625.24,445154.02,7528.78000000003,19,"Purely as a matter of principle, i wouldn't inflict my sorry busted-up old self on the lovely, unsullied Giovanni.","Purely",Giovanni.
+42,926,967,446470,458949.21,12479.21,42,"Not to mention that I have finally arrived at that age where a woman starts to question whether the wisest way to get over the loss of one beautiful brown-eyed young man is indeed to promptly invite another one into her bed.","Not",bed.
+43,968,977,459905.87,461935.7,2029.83000000002,10,"This is why I have been alone for many months.","This",months.
+44,978,993,461935.7,468092.61,6156.90999999997,16,"Now, this is why, in fact, i have decided to spend this entire year in celibacy.","Now,",celibacy.
+45,994,1007,469370.61,474107.47,4736.85999999999,14,"To which the savvy observer might inquire, then why did you come to Italy?","To",Italy?
+46,1008,1024,475336.51,481958.23,6621.71999999997,17,"To which I can only reply, especially when looking across the table at handsome Giovanni, excellent question.","To",question.
+47,1025,1030,483560.42,486183.57,2623.14999999991,6,"Giovanni is my tandem exchange partner.","Giovanni",partner.
+48,1031,1039,486734.81,489862.49,3127.67999999999,9,"That sounds like an innuendo, but unfortunately, it's not.","That",not.
+49,1040,1060,490867.32,496060,5192.67999999999,21,"All it really means is that We meet a few evenings a week here in Rome to practice each other's languages.","All",languages.
+50,1061,1082,496683.43,502731.23,6047.79999999999,22,"We speak first in Italian, and he is patient with me; then we speak in English and i am patient with him.","We",him.
+51,1083,1121,504375.42,517099.3,12723.88,39,"I discovered Giovanni a few weeks after I'd arrived in Rome, thanks to that big Internet cafe at the Piazza Barbarini across the street from that fountain with the sculpture of that sexy merman blowing into his conch shell.","I",shell.
+52,1122,1152,517899.05,530544.56,12645.5100000001,31,"He Giovanni, that is not the merman had posted a flier on the bulletin board explaining that a native Italian speaker was seeking a native English speaker for conversational language practice.","He",practice.
+53,1153,1175,531583.4,538851.26,7267.85999999999,23,"Right beside his appeal was another flier with the same request, word for word identical in every way, right down to the typeface.","Right",typeface.
+54,1176,1182,539585.91,541940.06,2354.15000000002,7,"The only difference was the contact information.","The",information.
+55,1183,1198,542737.08,549751.47,7014.39000000013,16,"One flier listed an email address for somebody named Giovanni, the other introduced, somebody named Dario.","One",Dario.
+56,1199,1207,550262.76,552202.28,1939.52000000002,9,"But even the home phone number was the same.","But",same.
+57,1208,1227,553342.12,561010,7667.88,20,"Using my keen intuitive powers, i emailed both men at the same time asking an Italian, Are you perhaps brothers?","Using",brothers?
+58,1228,1240,561891.45,568446.99,6555.54000000004,13,"It was Giovanni, who wrote back this very provocativo message, even better twins.","It",twins.
+59,1241,1243,569509.18,571662.02,2152.83999999997,3,"Yes, much better.","Yes,",better.
+60,1244,1269,572372.81,581964.7,9591.89000000001,26,"Tall, dark and handsome identical twenty five year old twins as it turned out with those giant brown, liquid center Italian eyes that just unstitch me.","Tall,",me.
+61,1270,1292,582839.09,589150.77,6311.67999999993,23,"After meeting the boys in person, i began to wonder if perhaps i should adjust my rule somewhat about remaining celibate this year.","After",year.
+62,1293,1316,589712.86,597240.03,7527.17000000004,24,"For instance, perhaps I could remain totally celibate except for keeping a pair of handsome, twenty five year old Italian twin brothers as lovers.","For",lovers.
+63,1317,1331,598075.83,602080,4004.17000000004,15,"Which was slightly reminiscent of a friend of mine who is vegetarian except for bacon.","Which",bacon.
+64,1332,1333,602311.67,603211.06,899.389999999898,2,"But nonetheless.","But",nonetheless.
+65,1334,1359,603514.62,612761.9,9247.28000000003,26,"I was already composing my letter to penthouse, in the flickering, candlelit shadows of the Roman café it was impossible to tell whose hands were caress.","I",caress.
+66,1360,1364,613645.28,616358.71,2713.43000000005,5,"But no, no and no.","But",no.
+67,1365,1371,617201.4,619165.24,1963.83999999997,7,"I chopped the fantasy off in mid-word.","I",mid-word.
+68,1372,1392,619339.31,626810,7470.69000000006,21,"This was not my moment to be seeking romance and as day follows night to further complicate my already knotty life.","This",life.
+69,1393,1411,627392.54,632471.9,5079.35999999999,19,"This was my moment to look for the kind of healing and peace that can only come from solitude.","This",solitude.
+70,1412,1467,633985.35,654434.66,20449.3099999999,56,"Anyway, by now, by the middle of November, the shy studious, Giovanni and i have become dear buddies as for dardio, the more razzle-dazzle swinger, brother of the two, I have introduced him to my adorable little Swedish friend, Sophie, and how they've been sharing their evenings in Rome is another kind of tandem exchange altogether.","Anyway,",altogether.
+71,1468,1474,655313.29,657856.08,2542.79000000004,7,"But Giovanni and i, we only talk.","But",talk.
+72,1475,1480,658552.05,660581.32,2029.2699999999,6,"Well, we eat and we talk.","Well,",talk.
+73,1481,1503,660949.98,669517.72,8567.74000000011,23,"We have been eating and talking for many pleasant weeks now sharing pizza and gentle grammatical corrections, and tonight has been no exception.","We",exception.
+74,1504,1512,670099.05,673817.32,3718.2699999999,9,"A lovely evening of new idioms and fresh mozzarella.","A",mozzarella.
+75,1513,1550,675928.85,688833.9,12905.05,38,"Now it is midnight and foggy, and Giovanni is walking me home to my apartment through these back streets of Rome, which meander organically around the ancient buildings like bayou streams snaking around shadowy clumps of cypress groves.","Now",groves.
+76,1551,1556,689698.95,690775.14,1076.19000000006,6,"Now we are at my door.","Now",door.
+77,1557,1560,691430.4,692325.77,895.370000000112,4,"We face each other.","We",other.
+78,1561,1566,693091.18,694338.23,1247.04999999993,6,"He gives me a warm hug.","He",hug.
+79,1567,1575,695086.75,697620,2533.25,9,"This is an improvement for the first few weeks.","This",weeks.
+80,1576,1581,697620,698930.72,1310.71999999997,6,"He would only shake my hand.","He",hand.
+81,1582,1604,699602.81,704714.86,5112.05000000016,23,"I think if i were to stay in Italy for another three years, he might actually get up the juice to kiss me.","I",me.
+82,1605,1621,705639.15,710846.7,5207.55000000005,17,"On the other hand, he might just kiss me right now, tonight, right here by my door.","On",door.
+83,1622,1625,711221.03,712236.85,1015.81999999995,4,"There's still a chance.","There's",chance.
+84,1626,1646,712236.85,717900,5663.15000000002,21,"I mean, we're pressed up against each other's bodies beneath this moonlight, and of course, it would be a terrible mistake.","I",mistake.
+85,1647,1667,717900,723520,5620,21,"But it's still such a wonderful possibility that he might actually do it right now that he might just bend down.","But",down.
+86,1668,1670,723520,725710.84,2190.83999999997,3,"And and nope.","And",nope.
+87,1671,1676,726840,728719.97,1879.96999999997,6,"He separates himself from the embrace.","He",embrace.
+88,1677,1683,729622.66,731491.1,1868.43999999994,7,"Good night, my dear Liz, he says.","Good",says.
+89,1684,1689,732543.01,734813.47,2270.46000000008,6,"Buona, notte, caro mio i reply.","Buona,",reply.
+90,1690,1699,736445.33,738889.3,2443.97000000009,10,"I walk up the stairs to my fourth floor apartment.","I",apartment.
+91,1700,1701,738889.3,739606.71,717.409999999916,2,"All alone.","All",alone.
+92,1702,1709,740227.99,742447.14,2219.15000000002,8,"I let myself into my tiny little studio.","I",studio.
+93,1710,1717,742908.71,745408.63,2499.91999999993,8,"All alone I shut the door behind me.","All",me.
+94,1718,1744,746270.84,756171,9900.16000000003,27,"Another solitary bedtime in Rome, another long night's sleep ahead of me with nobody and nothing in my bed except a pile of Italian phrasebooks and dictionaries.","Another",dictionaries.
+95,1745,1747,756868.53,757665.31,796.780000000028,3,"I am alone.","I",alone.
+96,1748,1751,757993.64,759054.37,1060.72999999998,4,"I am all alone.","I",alone.
+97,1752,1755,759611.79,761122.82,1511.03000000003,4,"I am completely alone.","I",alone.
+98,1756,1775,762714.03,768513.36,5799.32999999996,20,"Grasping this reality, i let go of my bag, drop to my knees and press my forehead against the floor.","Grasping",floor.
+99,1776,1787,769070.12,773853.84,4783.71999999997,12,"There i offer up to the universe a fervent prayer of thanks.","There",thanks.
+100,1788,1855,774821.36,755790,-19031.36,68,"First in English, then in Italian, and then just to get the point across in Sanskrit And since I am already down there in supplication on the floor, let me hold that position as I reach back in time, three years earlier to the moment when this entire story began, a moment which also found me in this exact same posture, on my knees on a floor, praying.","First",praying.
+101,1856,1866,757070,760056.408031703,2986.40803170297,11,"Everything else about the three years ago scene was different, though.","Everything",though.
+102,1867,1895,760775.804455191,768493.216050272,7717.41159508121,29,"That time, I was not in Rome but in the upstairs bathroom of the big house in the suburbs of New York which I'd recently purchased with my husband.","That",husband.
+103,1896,1907,769209.633909913,772159.013745356,2949.37983544276,12,"It was a cold November around three o' clock in the morning.","It",morning.
+104,1908,1914,772902.047764417,774862.209471422,1960.16170700593,7,"My husband was sleeping in our bed.","My",bed.
+105,1915,1939,775559.719513304,784559.923446944,9000.20393363992,25,"I was hiding in the bathroom for something like the forty seventh consecutive night, and just as during all those nights before I was sobbing.","I",sobbing.
+106,1940,1977,785263.341374596,798812.727433367,13549.3860587709,38,"Sobbing so hard, in fact, that a great lake of tears and snot was spreading before me on the bathroom tiles, a veritable lake inferior, if you will of all my shame and fear and confusion and grief.","Sobbing",grief.
+107,1978,1984,799892.94187686,801503.07218467,1610.13030780968,7,"I don't want to be married anymore.","I",anymore.
+108,1985,2001,802777.663680892,806413.033641902,3635.36996101018,17,"I was trying so hard not to know this, but the truth kept insisting itself to me.","I",me.
+109,2002,2008,806824.992020942,808325.090079431,1500.09805848869,7,"I don't want to be married anymore.","I",anymore.
+110,2009,2017,808732.274188866,810440.691005648,1708.41681678151,9,"I don't want to live in this big house.","I",house.
+111,2018,2024,810696.051637702,811962.460641796,1266.40900409373,7,"I don't want to have a baby.","I",baby.
+112,2025,2034,813252.035137322,815400.691005648,2148.6558683262,10,"But I was supposed to want to have a baby.","But",baby.
+113,2035,2040,815560.691005648,817122.01504698,1561.32404133189,6,"I was thirty one years old.","I",old.
+114,2041,2081,817496.958772384,829530.302636487,12033.3438641032,41,"My husband and I, who had been together for eight years, married for six, had built our entire life around the common expectation that after passing the doddering old age of thirty, I would want to settle down and have children.","My",children.
+115,2082,2124,830323.177266004,843321.541479435,12998.3642134308,43,"By then, we mutually anticipated, I would have grown weary of traveling and would be happy to live in a big, busy household, full of children and homemade quilts, with a garden in the backyard and a cozy stew bubbling on the stovetop.","By",stovetop.
+116,2125,2163,844119.951084727,854990.044171422,10870.0930866951,39,"The fact that this was a fairly accurate portrait of my own mother is a quick indicator of how difficult it once was for me to tell the difference between myself and the powerful woman who had raised me.","The",me.
+117,2164,2179,856243.027697094,860540.691005648,4297.66330855398,16,"But I didn't, as I was appalled to be finding out, want any of these things.","But",things.
+118,2180,2211,861138.149029999,870809.158992018,9671.00996201893,32,"Instead as my twenties had come to a close that deadline of thirty had loomed over me like a death sentence, and I discovered that I did not want to be pregnant.","Instead",pregnant.
+119,2212,2224,871616.778750126,875122.083915277,3505.30516515102,13,"I kept waiting to want to have a baby, but it didn't happen.","I",happen.
+120,2225,2236,875906.514006207,878627.988267049,2721.47426084196,12,"And I know what it feels like to want something, believe me.","And",me.
+121,2237,2243,879103.841587706,881277.405445966,2173.56385825993,7,"I well know what desire feels like.","I",like.
+122,2244,2247,881714.774618055,882555.236653517,840.462035462027,4,"But it wasn't there.","But",there.
+123,2248,2267,883537.27651686,889384.761631625,5847.485114765,20,"Moreover, I couldn't stop thinking about what my sister had said to me once as she was breastfeeding her firstborn.","Moreover,",firstborn.
+124,2268,2278,890237.507103625,892925.151702137,2687.64459851198,11,"Having a baby is like getting a tattoo on your face.","Having",face.
+125,2279,2291,893319.761867886,896420.758612321,3100.99674443505,13,"You really need to be certain it's what you want before you commit.","You",commit.
+126,2292,2298,897760.765625145,899365.937421464,1605.17179631896,7,"How could I turn back now, though?","How",though?
+127,2299,2302,899916.767563707,901045.536294417,1128.76873071003,4,"Everything was in place.","Everything",place.
+128,2303,2309,901092.238414496,902460.691005648,1368.45259115205,7,"This was supposed to be the year.","This",year.
+129,2310,2322,902753.333391859,905512.537542268,2759.20415040897,13,"In fact, we'd been trying to get pregnant for a few months already.","In",already.
+130,2323,2326,905945.593564816,907026.351102824,1080.75753800792,4,"But nothing had happened.","But",happened.
+131,2327,2351,907524.549400064,917453.313232826,9928.76383276214,25,"Aside from the fact that in an almost sarcastic mockery of pregnancy, I was experiencing psychosomatic morning sickness, experiencing throwing up my breakfast every day.","Aside",day.
+132,2352,2384,918117.983904821,927894.054416545,9776.07051172398,33,"And every month when I got my period, I would find myself whispering furtively in the bathroom, thank you, thank you, thank you, thank you for giving me one more month to live.","And",live.
+133,2385,2394,929230.046165379,932060.378582897,2830.33241751802,10,"I'd been attempting to convince myself that this was normal.","I'd",normal.
+134,2395,2408,932733.341748191,935844.396899061,3111.05515087,14,"All women must feel this way when they're trying to get pregnant, I decided.","All",decided.
+135,2409,2424,936410.851042701,942669.146167263,6258.29512456211,16,"Ambivalent was the word I used, avoiding the much more accurate description utterly consumed with dread.","Ambivalent",dread.
+136,2425,2472,943717.198136983,958872.083991471,15154.885854488,48,"I was trying to convince myself that my feelings were customary, despite all evidence to the contrary, such as the acquaintance I'd run into last week who'd just discovered that she was pregnant for the first time, after spending two years and a king's ransom in fertility treatments.","I",treatments.
+137,2473,2475,959708.731089189,960921.485810832,1212.75472164305,3,"She was ecstatic.","She",ecstatic.
+138,2476,2486,961329.0679497,963576.698953227,2247.63100352709,11,"She had wanted to be a mother forever, she told me.","She",me.
+139,2487,2508,963943.338812829,969550.607996233,5607.26918340405,22,"She admitted she'd been secretly buying baby clothes for years and hiding them under the bed, where her husband wouldn't find them.","She",them.
+140,2509,2519,970322.681166671,973496.880302042,3174.19913537102,11,"I saw the joy in her face and I recognized it.","I",it.
+141,2520,2561,974228.743258592,986195.191098444,11966.447839852,42,"This was the exact joy my own face had radiated last spring, the day I discovered that the magazine I worked for was going to send me on assignment to New Zealand, to write an article about the search for giant squid.","This",squid.
+142,2562,2593,986195.191098444,996328.024974943,10132.8338764991,32,"And I thought, until I can feel as ecstatic about having a baby as I felt about going to New Zealand to search for a giant squid I cannot have a baby.","And",baby.
+143,2594,2600,996328.024974943,998795.695027317,2467.6700523739,7,"I don't want to be married anymore.","I",anymore.
+144,2601,2614,998795.695027317,1005409.53475729,6613.83972997009,14,"In daylight hours, I refused that thought, but at night it would consume me.","In",me.
+145,2615,2617,1005409.53475729,1006332.75418106,923.219423769042,3,"What a catastrophe.","What",catastrophe.
+146,2618,2637,1006332.75418106,1012921.45944486,6588.70526380092,20,"How could I be such a criminal jerk as to proceed this deep into a marriage only to leave it?","How",it?
+147,2638,2646,1012921.45944486,1015620.69100565,2699.23156079103,9,"We'd only just bought this house a year ago.","We'd",ago.
+148,2647,2652,1015620.69100565,1017385.48772742,1764.79672177194,6,"Hadn't I wanted this nice house?","Hadn't",house?
+149,2653,2656,1017385.48772742,1018457.05103719,1071.56330977206,4,"Hadn't I loved it?","Hadn't",it?
+150,2657,2669,1018457.05103719,1022310.29452662,3853.24348943296,13,"So why was I haunting its halls every night now, howling like Medea?","So",Medea?
+151,2670,2719,1022310.29452662,1039223.62183436,16913.32730774,50,"Wasn't I proud of all we'd accumulated the prestigious home in the Hudson Valley, the apartment in Manhattan, the eight phone lines, the friends and the picnics and the parties, and the weekends spent roaming the aisles of some box shaped superstore of our choice, buying evermore appliances on credit?","Wasn't",credit?
+152,2720,2743,1039223.62183436,1047632.49072712,8408.86889275501,24,"I had actively participated in every moment of the creation of this life, so why did I feel like none of it resembled me?","I",me?
+153,2744,2785,1047632.49072712,1062740.11280608,15107.6220789551,42,"Why did I feel so overwhelmed with duty tired of being the primary breadwinner and the housekeeper and the social coordinator and the dog walker and the wife and the soon to be mother and somewhere in my stolen moments, a writer?","Why",writer?
+154,2786,2792,1062740.11280608,1065790.69100565,3050.57819957309,7,"I don't want to be married anymore.","I",anymore.
+155,2793,2803,1065790.69100565,1070608.25368974,4817.56268409197,11,"My husband was sleeping in the other room in our bed.","My",bed.
+156,2804,2813,1070608.25368974,1074754.99964957,4146.74595982884,10,"I equal parts loved him and could not stand him.","I",him.
+157,2814,2823,1074754.99964957,1077455.64367124,2700.64402166894,10,"I couldn't wake him up to share in my distress.","I",distress.
+158,2824,2828,1077455.64367124,1078793.34453141,1337.70086017111,5,"What would be the point?","What",point?
+159,2829,2856,1078793.34453141,1087488.546939,8695.20240759198,28,"He'd already been watching me fall apart for months now, watching me behave like a mad woman, we both agreed on that word and I only exhausted him.","He'd",him.
+160,2857,2872,1087488.546939,1092690.69100565,5202.14406664716,16,"We both knew there was something wrong with me and he'd been losing patience with it.","We",it.
+161,2873,2895,1092690.69100565,1099194.6255134,6503.9345077558,23,"We'd been fighting and crying, and we were weary in that way that only a couple whose marriage is collapsing can be weary.","We'd",weary.
+162,2896,2901,1099194.6255134,1101042.95729754,1848.33178413217,6,"We had the eyes of refugees.","We",refugees.
+163,2902,2922,1101042.95729754,1109170.69100565,8127.73370811203,21,"The many reasons I didn't want to be this man's wife anymore are too personal and too sad to share here.","The",here.
+164,2923,2945,1109170.69100565,1114683.94597657,5513.254970924,23,"Much of it had to do with my problems, but a good portion of our troubles were related to his issues as well.","Much",well.
+165,2946,2958,1114683.94597657,1118890.69100565,4206.745029076,13,"That's only natural, there are always two figures in a marriage after all.","That's",all.
+166,2959,2970,1118890.69100565,1124091.93927512,5201.24826946994,12,"Two votes, two opinions, two conflicting sets of decisions, desires and limitations.","Two",limitations.
+167,2971,2985,1124091.93927512,1129363.91803101,5271.97875589505,15,"But I don't think it's appropriate for me to discuss his issues in my book.","But",book.
+168,2986,3016,1129363.91803101,1139966.05100565,10602.1329746351,31,"Nor would I ask anyone to believe that I am capable of reporting an unbiased version of our story and therefore the chronicle of our marriage's failure will remain untold here.","Nor",here.
+169,3017,3058,1140759.12100565,1152366.05100565,11606.9300000002,42,"I also will not discuss here all the reasons why I did still want to be his wife or all his wonderfulness, or why I loved him and why I had married him and why I was unable to imagine life without him.","I",him.
+170,3059,3064,1152932.60100565,1154286.05100565,1353.45000000019,6,"I won't open any of that.","I",that.
+171,3065,3085,1155166.05100565,1162453.58100565,7287.5299999998,21,"Let it be sufficient to say that on this night he was still my lighthouse and my albatross in equal measure.","Let",measure.
+172,3086,3094,1163228.56100565,1165846.05100565,2617.49000000022,9,"The only thing more unthinkable than leaving was staying.","The",staying.
+173,3095,3103,1165846.05100565,1168206.05100565,2360,9,"The only thing more impossible than staying was leaving.","The",leaving.
+174,3104,3110,1168716.05100565,1171116.05100565,2400,7,"I didn't want destroy anything or anybody.","I",anybody.
+175,3111,3135,1171506.58100565,1180076.05100565,8569.4700000002,25,"I just wanted to slip quietly out the back door without causing any fuss or consequences, and then not stop running until I reached Greenland.","I",Greenland.
+176,3136,3145,1181276.05100565,1183268.44100565,1992.3899999999,10,"This part of my story is not a happy one.","This",one.
+177,3146,3171,1183268.44100565,1190636.05100565,7367.6100000001,26,"I know, but I share it here because something was about to occur on that bathroom floor that would change forever the progression of my life.","I",life.
+178,3172,3218,1191116.05100565,1209056.05100565,17940,47,"Almost like one of those crazy astronomical super-events when a planet flips over in outer space for no reason whatsoever and its molten core shifts, relocating its poles and altering its shape radically such that the whole mass of the planet suddenly becomes oblong instead of spherical.","Almost",spherical.
+179,3219,3221,1210016.05100565,1210976.05100565,960,3,"Something like that.","Something",that.
+180,3222,3234,1212139.10100565,1218096.05100565,5956.95000000019,13,"What happened was that I started to pray, you know, like to God.","What",God.
+181,3235,3241,980160,981601.2,1441.19999999995,7,"Now, this was a first for me.","Now,",me.
+182,3242,3295,982435.02,997724.72,15289.7000000001,54,"And since this is the first time i have introduced that loaded word God into my book, and since this is a word which will appear many times again throughout these pages, it seems only fair that I pause here for a moment to explain exactly what I mean when I say that word.","And",word.
+183,3296,3308,998120,1000944.23,2824.22999999998,13,"Just so people can decide right away how offended they need to get.","Just",get.
+184,3309,3319,1002171.4,1005607.86,3436.45999999996,11,"Saving for later the argument about whether God exists at all.","Saving",all.
+185,3320,3324,1006077.49,1007680,1602.51000000001,5,"No, here's a better idea.","No,",idea.
+186,3325,3329,1007680,1009665.57,1985.56999999995,5,"Let's skip that argument completely.","Let's",completely.
+187,3330,3355,1010607.13,1020030,9422.87,26,"Let me first explain why i used the word God when i could just as easily use the words Jehovah, Allah, Shiva, Brahma, Vishnu or Zeus.","Let",Zeus.
+188,3356,3387,1020910,1031887.01,10977.01,32,"Alternatively, i could call God that, which is how the ancient Sanskrit scriptures say it, and which I think comes close to the all inclusive and unspeakable entity i have sometimes experienced.","Alternatively,",experienced.
+189,3388,3394,1032670,1035679.39,3009.39000000001,7,"But that that feels impersonal to me.","But",me.
+190,3395,3399,1035950,1037310,1360,5,"A thing, not a being.","A",being.
+191,3400,3407,1037760.28,1039918.38,2158.09999999998,8,"And i myself cannot pray to a that.","And",that.
+192,3408,3424,1040588.26,1046306.73,5718.46999999997,17,"I need a proper name in order to fully sense a personal attendance for this same reason.","I",reason.
+193,3425,3474,1046306.73,1064030,17723.27,50,"When i pray, i do not address my prayers to the universe, the Great Void, the Force, the Supreme Self, the Whole, the Creator, the light, the higher power, or even the most poetic manifestation of God's name taken, i believe, from the Gnostic Gospels, the shadow of the turning.","When",turning.
+194,3475,3482,1065323.11,1067470,2146.8899999999,8,"I have nothing against any of these terms.","I",terms.
+195,3483,3501,1067850.8,1074110,6259.19999999995,19,"I feel that they are all equal because they are all equally adequate and inadequate descriptions of the indescribable.","I",indescribable.
+196,3502,3529,1074822.43,1082580,7757.57000000007,28,"But we each do need a functional name for this indescribability, and God is the name that feels the most warm to me, so that's what I use.","But",use.
+197,3530,3565,1083358.26,1097051.12,13692.8600000001,36,"I should also confess that I generally refer to God as him, which doesn't bother me because to my mind, it's just a convenient personalizing pronoun, not a precise anatomical description or a cause for revolution.","I",revolution.
+198,3566,3595,1098020,1109801.11,11781.1100000001,30,"Of course, i don't mind if people call God her and I understand the urge to do so again to me, these are both equal terms, equally adequate and inadequate.","Of",inadequate.
+199,3596,3617,1110462.4,1116490,6027.60000000009,22,"Though i do think the capitalization of either pronoun is a nice touch, a small politeness in the presence of the divine.","Though",divine.
+200,3618,3624,1118075.08,1120733.41,2658.32999999984,7,"Culturally, though, not theologically, i'm a Christian.","Culturally,",Christian.
+201,3625,3634,1121288.18,1124422.27,3134.09000000008,10,"I was born a protestant of the white Anglo-Saxon persuasion.","I",persuasion.
+202,3635,3685,1125013.53,1141760.85,16747.3200000001,51,"And while i do love that great teacher of peace who is called Jesus and while i do reserve the right to ask myself and certain trying situations what indeed he would do, i can't swallow that one fixed rule of Christianity insisting that Christ is the only path to God.","And",God.
+203,3686,3694,1142720,1145912.63,3192.62999999989,9,"Strictly speaking, then I cannot call myself a Christian.","Strictly",Christian.
+204,3695,3709,1146964.98,1151537.59,4572.6100000001,15,"Most of the Christians, i know, accept my feelings on this with grace and open-mindedness.","Most",open-mindedness.
+205,3710,3748,1152309.41,1166324.25,14014.8400000001,39,"Then again, most of the Christians, i know, don't speak very strictly to those who do speak and think strictly, all i can do is offer my regrets for any hurt feelings and now excuse myself from their business.","Then",business.
+206,3749,3759,1167850,1172303.09,4453.09000000008,11,"Traditionally, i have responded to the transcendent mystics of all religions.","Traditionally,",religions.
+207,3760,3809,1172945.02,1189771.82,16826.8,50,"I have always responded with breathless excitement to anyone who has ever said that god does not live in a dogmatic scripture or in a distant throne in the sky, but instead abides very close to us, indeed much closer than we can imagine breathing right through our own hearts.","I",hearts.
+208,3810,3849,1190596.05,1201661.76,11065.71,40,"I respond with gratitude to anyone who has ever voyaged to the center of that heart and who has then returned to the world with a report for the rest of us that God is an experience of supreme love.","I",love.
+209,3850,3868,1202691,1209742.02,7051.02000000002,19,"In every religious tradition on earth there have always been mystical saints and transcendents who report exactly this experience.","In",experience.
+210,3869,3878,1210647.29,1213863.27,3215.97999999998,10,"Unfortunately many of them have ended up, arrested and killed.","Unfortunately",killed.
+211,3879,3885,1214492.95,1216533.61,2040.66000000015,7,"Still, i think very highly of them.","Still,",them.
+212,3886,3898,1217740.08,1221020,3279.91999999993,13,"In the end, what i have come to believe about God is simple.","In",simple.
+213,3899,3909,1221336.83,1224205.16,2868.32999999984,11,"It's like this i used to have this really great dog.","It's",dog.
+214,3910,3914,1224300,1225500,1200,5,"She came from the pound.","She",pound.
+215,3915,3934,1225890.29,1230732.47,4842.17999999993,20,"She was a mixture of about ten different breeds but seemed to have inherited the finest features of them all.","She",all.
+216,3935,3937,1231340,1232220,880,3,"She was brown.","She",brown.
+217,3938,3947,1232666.51,1234940,2273.48999999999,10,"When people asked me what kind of dog is that?","When",that?
+218,3948,3954,1234940,1236325.56,1385.56000000006,7,"I would always give the same answer.","I",answer.
+219,3955,3958,1236697.91,1237770,1072.09000000008,4,"She's a brown dog.","She's",dog.
+220,3959,3982,1238770,1246212.84,7442.84000000008,24,"Similarly, when the question is raised, what kind of god do you believe in, my answer is easy i believe in a magnificent god.","Similarly,",god.
+221,3983,4013,1251730,1259250,7520,31,"of course, I've had a lot of time to formulate my opinions about divinity since that night on the bathroom floor when I spoke to God directly for the first time.","of",time.
+222,4014,4032,1260048.43,1265821.17,5772.73999999999,19,"In the middle of that dark November crisis, though I was not interested in formulating my views on theology.","In",theology.
+223,4033,4040,1266219.34,1268525.15,2305.80999999982,8,"I was interested only in saving my life.","I",life.
+224,4041,4058,1269101.34,1274480,5378.65999999992,18,"I had finally noticed that i seemed to have reached a state of hopeless and life threatening despair.","I",despair.
+225,4059,4074,1274849.24,1278754.21,3904.96999999997,16,"And it occurred to me that sometimes people in this state will approach God for help.","And",help.
+226,4075,4083,1279315.1,1280950.42,1635.31999999983,9,"I think I'd read that in a book somewhere.","I",somewhere.
+227,4084,4101,1282033.23,1288460.28,6427.05000000005,18,"What i said to God through my gasping sobs was something like, this, hello God, how are you?","What",you?
+228,4102,4103,1288990,1289638.96,648.959999999963,2,"I'm Liz.","I'm",Liz.
+229,4104,4108,1290171.58,1291199.88,1028.29999999981,5,"It's nice to meet you.","It's",you.
+230,4109,4110,1292526.42,1293010.16,483.739999999991,2,"That's right.","That's",right.
+231,4111,4129,1293010.16,1297292.24,4282.08000000007,19,"I was speaking to the creator of the universe as though we'd just been introduced at a cocktail party.","I",party.
+232,4130,4139,1297875.07,1299670,1794.92999999993,10,"But we work with what we know in this life.","But",life.
+233,4140,4153,1299670,1302702.32,3032.32000000007,14,"And these are the words I always use at the beginning of a relationship.","And",relationship.
+234,4154,4175,1303186.01,1308035.03,4849.02000000002,22,"In fact, it was all I could do to stop myself from saying I've always been a big fan of your work.","In",work.
+235,4176,4184,1309656.07,1311590,1933.92999999993,9,"I'm sorry to bother you so late at night.","I'm",night.
+236,4185,4191,1311590,1313950,2360,7,"I continued, but i'm in serious trouble.","I",trouble.
+237,4192,4202,1314293.15,1317240,2946.85000000009,11,"And I'm sorry i haven't ever spoken directly to you before.","And",before.
+238,4203,4224,1317620.49,1323707.39,6086.89999999991,22,"But i do hope that i have always expressed ample gratitude for all the blessings that you've given me in my life.","But",life.
+239,4225,4232,1324760,1327356.21,2596.20999999996,8,"This thought caused me to sob even harder.","This",harder.
+240,4233,4236,1328100.96,1329188.51,1087.55000000005,4,"God waited me out.","God",out.
+241,4237,4244,1330174.98,1332166.61,1991.63000000012,8,"I pulled myself together enough to go on.","I",on.
+242,4245,4260,1333050.09,1337145.74,4095.64999999991,16,"I am not an expert at praying, as you know, but can you please help me?","I",me?
+243,4261,4267,1337655.79,1339040,1384.20999999996,7,"I am in desperate, need of help.","I",help.
+244,4268,4273,1339040,1340120,1080,6,"I don't know what to do.","I",do.
+245,4274,4277,1340444.65,1341463.1,1018.45000000019,4,"I need an answer.","I",answer.
+246,4278,4283,1341811.79,1342996.69,1184.89999999991,6,"Please tell me what to do.","Please",do.
+247,4284,4289,1343321.41,1344566.99,1245.58000000007,6,"Please tell me what to do.","Please",do.
+248,4290,4295,1344903.17,1346460,1556.83000000007,6,"Please tell me what to do.","Please",do.
+249,4296,4306,1347332.89,1350906.69,3573.80000000005,11,"And so the prayer narrowed itself down to that simple entreaty.","And",entreaty.
+250,4307,4312,1351375.68,1352782.8,1407.12000000011,6,"Please tell me what to do.","Please",do.
+251,4313,4317,1353066.44,1354700,1633.56000000006,5,"Repeat it again and again.","Repeat",again.
+252,4318,4325,1355197.75,1357042.23,1844.47999999998,8,"I don't know how many times i begged.","I",begged.
+253,4326,4339,1357461.56,1360741.03,3279.46999999997,14,"I only know that I begged like someone who was pleading for her life.","I",life.
+254,4340,4352,1361259.36,1368546.32,7286.95999999996,13,"And the crying went on forever until quite abruptly It stopped quite abruptly.","And",abruptly.
+255,4353,4360,1368546.32,1370744.86,2198.54000000004,8,"I found that I was not crying anymore.","I",anymore.
+256,4361,4363,1371231.26,1372126.07,894.810000000056,3,"I'd stopped crying.","I'd",crying.
+257,4364,4377,1372126.07,1377283.34,5157.27000000002,14,"In fact, in mid sob my misery had been completely vacuumed out of me.","In",me.
+258,4378,4404,1378115.76,1386394.71,8278.94999999995,27,"I lifted my forehead off the floor and sat up in surprise wondering if i would now see some great being who had taken my weeping away.","I",away.
+259,4405,4408,1387350.03,1388474.9,1124.86999999988,4,"But nobody was there.","But",there.
+260,4409,4412,1389295.45,1390429.69,1134.23999999999,4,"I was just alone.","I",alone.
+261,4413,4416,1391190,1392381.46,1191.45999999996,4,"But not really alone.","But",alone.
+262,4417,4417,1392381.46,1392808.3,426.840000000084,1,"Either.","Either.",Either.
+263,4418,4432,1393680.52,1398860,5179.47999999998,15,"I was surrounded by something I can only describe as a little pocket of silence.","I",silence.
+264,4433,4448,1399556.86,1404441.73,4884.86999999988,16,"A silence so rare that I didn't want to exhale for fear of scaring it off.","A",off.
+265,4449,4452,1405144.32,1406743.25,1598.92999999993,4,"I was seamlessly still.","I",still.
+266,4453,4461,1407552.48,1410063.24,2510.76000000001,9,"I don't know when I'd ever felt such stillness.","I",stillness.
+267,4462,4466,1411740,1413125.97,1385.96999999997,5,"Then i heard a voice.","Then",voice.
+268,4467,4470,1414185.12,1415283.3,1098.17999999993,4,"Please don't be alarmed.","Please",alarmed.
+269,4471,4480,1415283.3,1418271.16,2987.85999999987,10,"It was not an old testament Hollywood Charlton Heston voice.","It",voice.
+270,4481,4497,1418667.46,1422550.28,3882.82000000007,17,"Nor was it a voice telling me that i must build a baseball field in my backyard.","Nor",backyard.
+271,4498,4514,1422969.54,1428406.78,5437.23999999999,17,"It was merely my own voice speaking from within my own self but this was my voice.","It",voice.
+272,4515,4531,1428406.78,1434112.22,5705.43999999994,17,"As i had never heard it before, this was my voice, but perfectly wise calm and compassionate.","As",compassionate.
+273,4532,4539,1434804.96,1436487.36,1682.40000000014,8,"This was what my voice would sound like.","This",like.
+274,4540,4561,1436487.36,1443560,7072.6399999999,22,"¿If i'd only ever experienced love and certainty in my life how can I describe the warmth of affection in that voice?","¿If",voice?
+275,4562,4576,1443808.75,1447525.19,3716.43999999994,15,"As it gave me the answer that would forever seal my faith in the divine.","As",divine.
+276,4577,4584,1448358.09,1451560,3201.90999999992,8,"The voice said, Go back to bed, Liz.","The",Liz.
+277,4585,4586,1453660.04,1454437.65,777.60999999987,2,"I exhaled.","I",exhaled.
+278,4587,4599,1455936.66,1458959.64,3022.97999999998,13,"It was so immediately clear that this was the only thing to do.","It",do.
+279,4600,4607,1459502.81,1461560.8,2057.98999999999,8,"I would not have accepted any other answer.","I",answer.
+280,4608,4636,1461882,1471600.95,9718.94999999995,29,"I would not have trusted a great booming voice that said either you must divorce your husband or you must not divorce your husband because that's not true wisdom.","I",wisdom.
+281,4637,4647,1472910,1477156.01,4246.01000000001,11,"True wisdom gives the only possible answer at any given moment.","True",moment.
+282,4648,4659,1477608.22,1481510,3901.78000000003,12,"And that night, going back to bed was the only possible answer.","And",answer.
+283,4660,4691,1482805.31,1491773.19,8967.87999999989,32,"Go back to bed, said this omniscient interior voice, because you don't need to know the final answer right now at three o' clock in the morning, on a Thursday in November.","Go",November.
+284,4692,4699,1492406.06,1494287.86,1881.80000000005,8,"Go back to bed because I love you.","Go",you.
+285,4700,4729,1494651.83,1501363.09,6711.26000000001,30,"Go back to bed because the only thing you need to do for now is get some rest and take good care of yourself until you do know the answer.","Go",answer.
+286,4730,4733,1502184.27,1503006.6,822.330000000075,4,"Go back to bed.","Go",bed.
+287,4734,4747,1503006.6,1506840.39,3833.7899999998,14,"So that when the tempest comes, you'll be strong enough to deal with it.","So",it.
+288,4748,4760,1508100.65,1514100,5999.35000000009,13,"And the tempest is coming dear one very soon, but not tonight, therefore.","And",therefore.
+289,4761,4765,1515023.88,1516260,1236.12000000011,5,"Go back to bed, Liz.","Go",Liz.
+290,4766,4781,1518004.78,1523908.45,5903.66999999993,16,"In a way, this little episode had all the hallmarks of a typical Christian conversion experience.","In",experience.
+291,4782,4798,1524451.46,1529873.95,5422.48999999999,17,"The dark night of the soul, the call for help, the responding voice, the sense of transformation.","The",transformation.
+292,4799,4811,1530830,1534146.18,3316.17999999993,13,"But i would not say that this was a religious conversion for me.","But",me.
+293,4812,4823,1534670,1539150,4480,12,"Not in that traditional manner of being born again or saved instead.","Not",instead.
+294,4824,4830,1539150,1540823.79,1673.79000000004,7,"I would call what happened that night.","I",night.
+295,4831,4836,1541175.36,1543486.96,2311.59999999986,6,"The beginning of a religious conversation.","The",conversation.
+296,4837,4855,1544175.88,1551729.13,7553.25,19,"The first words of an open and exploratory dialogue that would ultimately bring me very close to God indeed","The",indeed
