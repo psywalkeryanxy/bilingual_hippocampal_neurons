@@ -2,20 +2,14 @@
 % compares english and spanish semantic subspaces in neuron space:
 %   - neuron x neuron covariances (centered across words)
 %   - eigendecomposition for neuron-space axes
-%   - elsayed variance-capture alignment
 %   - neuron participation strength correlation
 %   - permutation tests (neuron identity shuffle)
-%
-% required input:
-%   - matched spike data files (firing rates per language)
-%
-% output:
-%   - alignment and participation metrics with permutation p-values
-%   - figures saved as PDF
+
+
 % xinyuanyan
 
 clear all; close all;
-
+purple_color = [0.45 0.20 0.70];
 %% ============================================================
 %  user configuration
 %  ============================================================
@@ -76,12 +70,6 @@ Us_neuron = W_s(:, 1:kN);
 sum_topk_e = sum(vals_e(1:kN));
 sum_topk_s = sum(vals_s(1:kN));
 
-%% ============================================================
-%  observed elsayed alignment + participation correlation
-%  ============================================================
-obs_align_e_by_s = elsayed_alignment(C_eng, Us_neuron, sum_topk_e);
-obs_align_s_by_e = elsayed_alignment(C_spa, Ue_neuron, sum_topk_s);
-obs_align_mean = 0.5 * (obs_align_e_by_s + obs_align_s_by_e);
 
 % neuron participation strength
 piE = sum(W_e(:, 1:kN).^2, 2);
@@ -99,9 +87,6 @@ end
 
 if isempty(gcp('nocreate')); parpool(n_pool); end
 
-perm_align_e_by_s = zeros(n_perm, 1);
-perm_align_s_by_e = zeros(n_perm, 1);
-perm_align_mean = zeros(n_perm, 1);
 perm_r_participation = zeros(n_perm, 1);
 
 parfor p = 1:n_perm
@@ -117,31 +102,16 @@ parfor p = 1:n_perm
         Us_perm = W_perm(:, 1:kN);
         sum_topk_perm = sum(vals_perm(1:kN));
 
-        perm_align_e_by_s(p) = elsayed_alignment(C_eng, Us_perm, sum_topk_e);
-        perm_align_s_by_e(p) = elsayed_alignment(C_spa_perm, Ue_neuron, sum_topk_perm);
-        perm_align_mean(p) = 0.5 * (perm_align_e_by_s(p) + perm_align_s_by_e(p));
-
         piS_perm = piS(idx);
         perm_r_participation(p) = corr(piE, piS_perm);
     else
-        perm_align_e_by_s(p) = NaN;
-        perm_align_s_by_e(p) = NaN;
-        perm_align_mean(p) = NaN;
+
         perm_r_participation(p) = NaN;
     end
 end
 
-% remove NaN entries
-valid = ~isnan(perm_align_mean);
-perm_align_e_by_s = perm_align_e_by_s(valid);
-perm_align_s_by_e = perm_align_s_by_e(valid);
-perm_align_mean = perm_align_mean(valid);
-perm_r_participation = perm_r_participation(valid);
 
-% one-tailed p-values (larger alignment / correlation is better)
-p_align_e_by_s = mean(perm_align_e_by_s >= obs_align_e_by_s);
-p_align_s_by_e = mean(perm_align_s_by_e >= obs_align_s_by_e);
-p_align_mean = mean(perm_align_mean >= obs_align_mean);
+
 p_participation = mean(perm_r_participation >= obs_r_participation);
 
 
@@ -180,7 +150,7 @@ end
 
 function [V_sorted, evals_sorted] = eig_psd(G, n_dim)
 % eigendecompose, sort descending, clip small/negative eigenvalues.
-    G = (G + G') / 2;
+
     [V, D] = eig(G);
     [evals_sorted, idx] = sort(real(diag(D)), 'descend');
     V_sorted = V(:, idx);
@@ -188,9 +158,8 @@ function [V_sorted, evals_sorted] = eig_psd(G, n_dim)
     keep = evals_sorted > tol;
     evals_sorted = evals_sorted(keep);
     V_sorted = V_sorted(:, keep);
+
+
+
 end
 
-function a = elsayed_alignment(C_A, U_B, sum_topk_A)
-% elsayed variance-capture alignment (elsayed et al., 2016).
-    a = trace(U_B' * C_A * U_B) / sum_topk_A;
-end
